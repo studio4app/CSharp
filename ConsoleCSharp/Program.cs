@@ -12,9 +12,8 @@ namespace ConsoleCSharp
         {
             for(int i=0; i<10; i++)
             {
-                Console.WriteLine("Hi Master Branch in iteration" + i);
+                Console.WriteLine("Hello Master Branch in iteration" + i);
             }
-            Console.WriteLine("Hi" + 1);
         
         Console.ReadKey();
         }
