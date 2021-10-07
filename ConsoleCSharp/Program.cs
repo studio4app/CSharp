@@ -15,7 +15,9 @@ namespace ConsoleCSharp
                 Console.WriteLine("Hello in iteration" + i);
                 Console.WriteLine("ChangesFromLocalMachine" + i*2);
             }
-            Console.ReadKey();
+            Console.WriteLine("Hello" + 1);
+        
+        Console.ReadKey();
         }
     }
 }
