@@ -10,11 +10,11 @@ namespace ConsoleCSharp
     {
         static void Main(string[] args)
         {
-            NewFunction();
+            RunHello();
 
             Console.ReadKey();
         }
-        static void NewFunction()
+        static void RunHello()
         {
             for (int i = 0; i < 10; i++)
             {
