@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleCSharp
 {
@@ -10,11 +6,19 @@ namespace ConsoleCSharp
     {
         static void Main(string[] args)
         {
-            for(int i=0; i<10; i++)
-            {
-                Console.WriteLine("Hello in iteration" + i);
-            }
+            WriteMsgUseCondition();
             Console.ReadKey();
+        }
+        static void WriteMsgUseCondition(bool b = false)
+        {
+            if (b == true)
+            {
+                Console.WriteLine("NewBranch with condition: " + b);
+            }
+            else
+            {
+                Console.WriteLine("NewBranch with condition: " + b);
+            }
         }
     }
 }
