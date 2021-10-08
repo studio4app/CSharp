@@ -6,10 +6,10 @@ namespace ConsoleCSharp
     {
         static void Main(string[] args)
         {
-            WriteMsgUseCondition();
+            WriteMsgUseCondition(); // function checking condition what should be written
             Console.ReadKey();
         }
-        static void WriteMsgUseCondition(bool b = false)
+        static void WriteMsgUseCondition(bool b = false) // by default it's false argument
         {
             if (b == true)
             {
