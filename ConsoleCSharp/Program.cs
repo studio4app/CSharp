@@ -10,5 +10,5 @@ namespace ConsoleCSharp
             writeMessage.Bool(true);
             Console.ReadKey();
         }
-          }
+    }
 }
