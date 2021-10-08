@@ -10,12 +10,16 @@ namespace ConsoleCSharp
     {
         static void Main(string[] args)
         {
-            for(int i=0; i<10; i++)
+            RunHello();
+
+            Console.ReadKey();
+        }
+        static void RunHello()
+        {
+            for (int i = 0; i < 10; i++)
             {
                 Console.WriteLine("Hello Master Branch in iteration" + i);
             }
-        
-        Console.ReadKey();
         }
     }
 }
