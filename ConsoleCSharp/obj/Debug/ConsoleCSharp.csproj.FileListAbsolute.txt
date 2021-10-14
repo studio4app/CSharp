@@ -4,3 +4,10 @@ E:\git\studio4app\CSharp\ConsoleCSharp\bin\Debug\ConsoleCSharp.pdb
 E:\git\studio4app\CSharp\ConsoleCSharp\obj\Debug\ConsoleCSharp.csprojAssemblyReference.cache
 E:\git\studio4app\CSharp\ConsoleCSharp\obj\Debug\ConsoleCSharp.exe
 E:\git\studio4app\CSharp\ConsoleCSharp\obj\Debug\ConsoleCSharp.pdb
+E:\repos\git\studio4app\CSharp\ConsoleCSharp\bin\Debug\ConsoleCSharp.exe.config
+E:\repos\git\studio4app\CSharp\ConsoleCSharp\bin\Debug\ConsoleCSharp.exe
+E:\repos\git\studio4app\CSharp\ConsoleCSharp\bin\Debug\ConsoleCSharp.pdb
+E:\repos\git\studio4app\CSharp\ConsoleCSharp\obj\Debug\ConsoleCSharp.csproj.AssemblyReference.cache
+E:\repos\git\studio4app\CSharp\ConsoleCSharp\obj\Debug\ConsoleCSharp.csproj.CoreCompileInputs.cache
+E:\repos\git\studio4app\CSharp\ConsoleCSharp\obj\Debug\ConsoleCSharp.exe
+E:\repos\git\studio4app\CSharp\ConsoleCSharp\obj\Debug\ConsoleCSharp.pdb
