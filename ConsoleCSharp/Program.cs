@@ -10,19 +10,19 @@ namespace ConsoleCSharp
     {
         static void Main(string[] args)
         {
-            ShowHello();
-            ShowHi();
+            ShowHello1();
+            ShowHi1();
 
             Console.ReadKey();
         }
-        static void ShowHello()
+        static void ShowHello1()
         {
             for (int i = 0; i < 10; i++)
             {
                 Console.WriteLine("Hello Master Branch in iteration" + i);
             }
         }
-        static void ShowHi()
+        static void ShowHi1()
         {
             for (int i = 0; i < 10; i++)
             {
